@@ -2,6 +2,7 @@
   "server_name": "Grimhold",
   "version": "1.0.3",
   "download_url": "https://grimhold.servegame.com/client/Grimhold.zip",
+  "login_url": "https://grimhold.servegame.com/login.php",
   "protected_folders": ["minimap", "conf", "characterdata", "screenshots"],
   "enable_auto_update": true,
   "auto_install_updates": false
