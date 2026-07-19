@@ -1,6 +1,6 @@
 {
   "server_name": "Grimhold",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "download_url": "https://grimhold.servegame.com/client/Grimhold.zip",
   "login_url": "https://grimhold.servegame.com/login.php",
   "protected_folders": ["minimap", "conf", "characterdata", "screenshots"],
